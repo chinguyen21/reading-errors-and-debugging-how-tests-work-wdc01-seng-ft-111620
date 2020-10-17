@@ -1,3 +1,3 @@
 # Add your variables here
 
-first_name = 5
+first_number = 5
